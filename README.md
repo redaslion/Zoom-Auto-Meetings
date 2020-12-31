@@ -1,6 +1,6 @@
 # Zoom-Auto-Meetings
 this project made for lazy students.
-This project is written in response to covid-19 crysis
+This project is written in response to covid-19 crisis
 ensured by online classroom meetings from Zoom application.
 
 This project is an open-source project and I grant my permission for people to utilize this software for all non-illegal activities.
